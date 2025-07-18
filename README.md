@@ -6,8 +6,9 @@
 
 
 <p align='center'>
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=midnight-purple"/>
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=midnight-purple"/>
+      <img width="49%" height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=tokyonight"/>
+      <img width="49%" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=merko"/>
+</p>
 </p>
 
 <p> 
