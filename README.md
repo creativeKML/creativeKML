@@ -1,6 +1,6 @@
 ## 🌱 Hi there! 👋
 <h2 align="center">🖥️ 안녕하세요! 
-   저는 ✨꿈꾸는 새싹개발자 <strong>creativeKML</strong>입니다 😊</h2>
+   ✨꿈꾸는 새싹개발자 <strong>creativeKML입니다 😊</h2>
 <p align='center'>
    
    <ul>
