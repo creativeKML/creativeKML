@@ -27,10 +27,8 @@
 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=dark">
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=tokyonight"/>
-   </a>
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=dark"/>
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=onedark"/>
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=onedark"/>
 </p>
 
 </p>
