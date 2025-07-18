@@ -1,7 +1,4 @@
 ## 🌱 Hi there! 👋
-<h2 align="center">🖥️ 안녕하세요! 
-   ✨꿈꾸는 새싹개발자 <strong>creativeKML입니다 😊</h2>
-<p align='center'>
    
    <ul>
     <li> 🌼 안녕하세요! 개발자라는 멋진 꿈을 향해 열심히 달리고 있는  
