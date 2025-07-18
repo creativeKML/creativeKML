@@ -1,7 +1,7 @@
 
    <ul>
     <li> 🌼 안녕하세요! 개발자 꿈을 향해 열심히 달리고 있는  
-          따끈따끈한 🔥 **새싹개발자** creativeKML 입니다 💻 </li>
+          따끈따끈한 🔥 새싹개발자 creativeKML 입니다 💻 </li>
    <br/> 
    <li>💡 항상 궁금한 게 많고,  🌈 "왜?"라는 질문으로 세상을 배워가고 있어요! </li>
    
@@ -23,7 +23,7 @@
    </ul>
 <p/>
 
-<img src="네온사진 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
+<img src="네이비 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=tokyonight">
