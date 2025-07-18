@@ -1,5 +1,15 @@
 <img src="네이비 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
 
+
+   </ul>
+<p/>
+
+
+<p align='center'>
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=midnight-purple"/>
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=midnight-purple"/>
+</p>
+
 <p> 
 🌼 안녕하세요! 개발자 꿈을 향해 열심히 달리고 있는
  따끈따끈한 🔥 새싹개발자 creativeKML 입니다 💻 
@@ -20,16 +30,6 @@
 <p>  ⌨️ SQL | 💻 VS Code |</p> 
 
 
-
-
-   </ul>
-<p/>
-
-
-<p align='center'>
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=midnight-purple"/>
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=midnight-purple"/>
-</p>
 
 </p>
    <a href="https://github.com/creativeKML/github-readme-stats"><img height=150
