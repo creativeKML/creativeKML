@@ -33,5 +33,4 @@
 
 </p>
    <a href="https://github.com/creativeKML/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasolit&layout=compact"/></a>
 </p>
