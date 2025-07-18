@@ -26,14 +26,13 @@
 <p/>
 
 
-
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=radical">
+   <a href="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=dark">
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=tokyonight"/>
    </a>
-   <a href="https://github.com/dasolit/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=radical"/>
-   </a>
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=dark"/>
+</p>
+
 </p>
    <a href="https://github.com/creativeKML/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasolit&layout=compact"/></a>
