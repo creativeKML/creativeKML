@@ -7,3 +7,7 @@
 <p/>
 
 <img src="미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
+
+<p align='center'>
+   <img src="https://hitscounter.dev/api/hit?url=https://github.com/creativeKML&label=&icon=github&color=%23198754" />
+</p>
