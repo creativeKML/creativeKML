@@ -27,8 +27,8 @@
 
 
 <p align='center'>
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=onedark"/>
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=onedark"/>
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=dracula"/>
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=dracula"/>
 </p>
 
 </p>
