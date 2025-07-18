@@ -30,7 +30,7 @@
    <a href="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=tokyonight">
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=tokyonight"/>
    </a>
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=tokyonight"/>
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=merko"/>
    </a>
 </p>
   
