@@ -1,3 +1,4 @@
+<img src="네이비 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
 
    <ul>
     <li> 🌼 안녕하세요! 개발자 꿈을 향해 열심히 달리고 있는  
@@ -23,13 +24,12 @@
    </ul>
 <p/>
 
-<img src="네이비 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
+
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=tokyonight">
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=creativeKML&show_icons=true&count_private=true&theme=tokyonight"/>
    </a>
-   <a href="https://github.com/dasolit/github-readme-stats">
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeKML&layout=compact&theme=tokyonight"/>
    </a>
 </p>
