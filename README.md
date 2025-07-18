@@ -19,8 +19,7 @@
    <li>제가 배우고 있는 기술들이에요! 튼튼하게 자라나고 있어요🌱 </li>
 
 
-   <li>🌱 지금은 이런 걸 하고 있어요! </li>
-   <li>|:--:|배우는 중|:--:| </li>
+   <li>🌱 지금은 배우는중입니다! </li>
    <li>🐍 Python | 🧡 HTML | 🛠️ Git / GitHub |</li>
    <li>✨ JavaScript | 💙 CSS | 📒 Notion /  |</li>
    <li> ⌨️ SQL | 💻 VS Code |</li>
