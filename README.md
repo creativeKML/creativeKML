@@ -8,7 +8,9 @@
 
 <img src="네온사진 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
 
+<p align='center'>
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FcreativeKML&label=&icon=github&color=%233d0a91&message=&style=flat&tz=UTC">
+</p>
 
 <h2> Tech Stack </h2>
 <p align='center'>
