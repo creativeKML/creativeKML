@@ -5,3 +5,5 @@
       <li>🌱 새싹개발자에서 개발자 되기 프로젝트 🖥️</li>
    </ul>
 <p/>
+
+<img src="미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
