@@ -1,4 +1,4 @@
-<img src="네이비 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%;" />
+<img src="네이비 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%, height:100px;" />
 
 
    </ul>
