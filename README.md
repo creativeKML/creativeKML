@@ -1,6 +1,6 @@
-<img src="네이비 미스터침침.png" 
-     alt="Welcome to Mr Chimchim" 
-     style="width:100%; height:250px; object-fit:cover;" />
+<img src="네이비 미스터침침.png"
+     alt="Welcome to Mr Chimchim"
+     style="width:100%; height:320px; object-fit:cover;" />
 
    </ul>
 
