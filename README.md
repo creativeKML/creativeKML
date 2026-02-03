@@ -1,8 +1,8 @@
-<img src="네이비 미스터침침.png" alt="Welcome to Mr Chimchim" style="width:100%, height:50px;" />
-
+<img src="네이비 미스터침침.png" 
+     alt="Welcome to Mr Chimchim" 
+     style="width:100%; height:250px; object-fit:cover;" />
 
    </ul>
-   
 
 <p> 
 🌼 안녕하세요! 개발자 꿈을 향해 열심히 달리고 있는
