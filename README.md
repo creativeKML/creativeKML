@@ -20,7 +20,7 @@
    <br/> 
 <p> 🌱 지금은 배우는중입니다!</p>
 <p>🐍 Python | 🧡 HTML | 🛠️ Git / GitHub </p>
-<p> ✨ JavaScript | 💙 CSS | 📒 Notion /  |</p>
+<p> ✨ JavaScript | 💙 CSS | 📒 Notion | 💻 React / Flask </p>
 <p>  ⌨️ SQL | 💻 VS Code |</p> 
 
 
